@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ekart/static/css/main.f855e6bc.css",
+    "main.js": "/ekart/static/js/main.d8622df6.js",
+    "static/js/453.a80e5e64.chunk.js": "/ekart/static/js/453.a80e5e64.chunk.js",
+    "static/media/logo.svg": "/ekart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ekart/index.html",
+    "main.f855e6bc.css.map": "/ekart/static/css/main.f855e6bc.css.map",
+    "main.d8622df6.js.map": "/ekart/static/js/main.d8622df6.js.map",
+    "453.a80e5e64.chunk.js.map": "/ekart/static/js/453.a80e5e64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d8622df6.js"
+  ]
+}
